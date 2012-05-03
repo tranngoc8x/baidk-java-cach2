@@ -1,6 +1,10 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Author: Trần Ngọc Thắng
+ * Class: CNTT K15B
+ * School: HVKTQS
+ * Chương trình nhập vào họ tên và ngày sinh
+ * Tính độ dài họ tên và kiểm tra ngày sinh có phải là số nguyên tố không
+ * Chương trình được viết trên NetBeans 7.1.1
  */
 package application;
 
